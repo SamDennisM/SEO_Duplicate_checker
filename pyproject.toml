@@ -1,0 +1,8 @@
+[project]
+name = "seo-content-detector"
+version = "0.1.0"
+requires-python = ">=3.9,<3.13"
+
+[tool.uv]
+# Hint for UV-based builders; not strictly required but explicit.
+python-preference = "managed"
