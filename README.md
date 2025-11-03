@@ -37,4 +37,7 @@ End-to-end pipeline to parse pre-scraped HTML, extract NLP features, detect near
 - Simple content extraction may miss highly dynamic sites.
 
 ## Streamlit (Optional Bonus)
-If implemented, include deployed URL here.
+- Local run:
+  - pip install -r requirements.txt
+  - streamlit run streamlit_app/app.py
+- Deployed URL: (add if deployed)
